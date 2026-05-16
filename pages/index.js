@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Frase alterada novamente</h1>
+    return <h4><b>Frase alterada novamente</b></h4>
 }
 
 export default Home;
